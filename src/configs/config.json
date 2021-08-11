@@ -1,0 +1,22 @@
+{ 
+   "Bot": {
+    "Token": ["ODEyMzM2NzIxNTk3MTY5NzM1.YC_Rhg.XTKJnTsWp5ZtxVrdJ4wOXTtc31s","ODEyMzUzNTg1NDkyMDAwODE5.YC_hOw.s1gxmIibkwCBrFseksqw-kLmtIA","ODEyMzU4NzIwMTEzMjEzNDgx.YC_mAw.ontX7vtyzdNEOy0xoGvthimzQgU","ODM1NjE2Nzk3NDAyMjAyMTM0.YISCyQ.PfYCvBue6RRYzwgptjgtIyB9gaE","ODM2MzIzNzgzODk4OTU1ODA3.YIcVOA.z1Q4h411DPpf1SUKEaUCWOi-UsU"],
+    "MongoURL": "mongodb+srv://welcome:2080201b@cluster0.aipr4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "Durum": "✩ Welcome To Stars",
+    "Status": "✩ Welcome To Stars",
+    "Owners": ["638067838761959454"],
+    "Prefix": [".","!"]
+  },
+  
+   "Server": {
+    "GuildID": "873565580781842432"
+  },
+
+   "Roles": {
+    "EnAltYetkiliRolü": "873565580869902421"
+  },
+  
+   "Channels": {
+    "BotVoice": ["873565581188661292","873565581188661293","873565581188661294","873565581188661295","873565581188661296"]
+  }
+}
